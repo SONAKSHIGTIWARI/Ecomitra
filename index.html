@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Eco Mitra 🌿</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Eco Mitra 🌿</h1>
+    <p>Know your product's environmental impact instantly</p>
+  </header>
+
+  <main>
+    <section class="scanner-section">
+      <div class="scanner-controls">
+        <button id="start-scan">📷 Scan with Camera</button>
+        <input type="file" id="image-upload" accept="image/*" />
+        <input type="text" id="manual-barcode" placeholder="🔍 Enter barcode manually" />
+        <button id="search-btn">Search Eco Score</button>
+      </div>
+
+      <div id="camera-container" class="hidden">
+        <video id="camera" autoplay></video>
+        <button id="stop-scan">🛑 Stop Camera</button>
+      </div>
+    </section>
+
+    <section id="barcode-display" class="hidden">
+      <h3>📌 Scanned Barcode</h3>
+      <p id="scanned-barcode"></p>
+    </section>
+
+    <section id="result-section" class="hidden">
+      <h2 id="product-name"></h2>
+      <img id="product-image" alt="Product Image" />
+      <div id="eco-summary"></div>
+      <p id="eco-details"></p>
+    </section>
+  </main>
+
+  <footer>
+    <h3>About Eco Mitra</h3>
+    <p>Eco Mitra helps you make informed, eco-conscious choices by showing the environmental impact of everyday products. Scan a barcode or upload an image to learn more about packaging, transport, and ingredients — and how they affect our planet.</p>
+    
+  </footer>
+
+  <script src="libs/quagga.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

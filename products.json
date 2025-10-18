@@ -1,0 +1,110 @@
+[
+  {
+    "Barcode": "8901595863280",
+    "Product Name": "Ching's Secret Schezwan Chutney",
+    "Transport Distance (km)": 825,
+    "Transport Score": 1,
+    "Packaging Type": "glass",
+    "Packaging Score": 5,
+    "Impacting Ingredient": "Plant-based",
+    "Ingredient Score": 5,
+    "Total Eco Score": 11,
+    "Image": "https://tse2.mm.bing.net/th/id/OIP.wJJSXB7rMxq6UhosM2PFwQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "Barcode": "8901786161003",
+    "Product Name": "Everest Chicken Masala",
+    "Transport Distance (km)": 825,
+    "Transport Score": 1,
+    "Packaging Type": "plastic and paper",
+    "Packaging Score": 2,
+    "Impacting Ingredient": "Plant-based",
+    "Ingredient Score": 5,
+    "Total Eco Score": 8,
+    "Image": "267995-2_2-everest-chicken-masala.jpg"
+  },
+  {
+    "Barcode": "8904004402247",
+    "Product Name": "Haldiram's Farali Chiwda",
+    "Transport Distance (km)": 0,
+    "Transport Score": 5,
+    "Packaging Type": "plastic",
+    "Packaging Score": 1,
+    "Impacting Ingredient": "Palm Oil",
+    "Ingredient Score": 1,
+    "Total Eco Score": 7,
+    "Image": "https://www.bbassets.com/media/uploads/p/l/100022522_2-haldirams-namkeen-phalhari-chiwda.jpg"
+  },
+  {
+    "Barcode": "8901030702556",
+    "Product Name": "Kissan Sweet & Spicy Sauce",
+    "Transport Distance (km)": 680,
+    "Transport Score": 3,
+    "Packaging Type": "plastic",
+    "Packaging Score": 1,
+    "Impacting Ingredient": "Processed Sugar",
+    "Ingredient Score": 3,
+    "Total Eco Score": 7,
+    "Image": "299449_26-kissan-sweet-spicy-ketchup.jpg"
+  },
+  {
+    "Barcode": "8904422700222",
+    "Product Name": "Patanjali Cow's Ghee",
+    "Transport Distance (km)": 550,
+    "Transport Score": 3,
+    "Packaging Type": "plastic and paper",
+    "Packaging Score": 2,
+    "Impacting Ingredient": "Dairy",
+    "Ingredient Score": 1,
+    "Total Eco Score": 6,
+    "Image": "614DT5y3VHL._SX679_.jpg"
+  },
+  {
+    "Barcode": "8901542001703",
+    "Product Name": "Glucon-D Instant Energy",
+    "Transport Distance (km)": 860,
+    "Transport Score": 1,
+    "Packaging Type": "plastic and paper",
+    "Packaging Score": 2,
+    "Impacting Ingredient": "Processed Sugar",
+    "Ingredient Score": 3,
+    "Total Eco Score": 6,
+    "Image": "https://m.media-amazon.com/images/I/712RJbwtyTL._SL1500_.jpg"
+  },
+  {
+    "Barcode": "890120702120",
+    "Product Name": "Real Fruit Power Apple Juice",
+    "Transport Distance (km)": 1080,
+    "Transport Score": 1,
+    "Packaging Type": "plastic and paper",
+    "Packaging Score": 2,
+    "Impacting Ingredient": "Processed Sugar",
+    "Ingredient Score": 3,
+    "Total Eco Score": 6,
+    "Image": "Real-Fruit-Power-Juice-Apple-1-1704892982.jpg"
+  },
+  {
+    "Barcode": "8901014004744",
+    "Product Name": "Nissin Cup Veg Noodles",
+    "Transport Distance (km)": 850,
+    "Transport Score": 1,
+    "Packaging Type": "plastic and paper",
+    "Packaging Score": 2,
+    "Impacting Ingredient": "Palm Oil",
+    "Ingredient Score": 1,
+    "Total Eco Score": 4,
+    "Image": "Cup-Noodles-Mazedaar-Delicious-Masala-Flavour-50g-medium.jpg"
+  },
+  {
+    "Barcode": "8901058017687",
+    "Product Name": "Maggi 2-Min Masala Noodles",
+    "Transport Distance (km)": 1080,
+    "Transport Score": 1,
+    "Packaging Type": "plastic",
+    "Packaging Score": 1,
+    "Impacting Ingredient": "Palm Oil",
+    "Ingredient Score": 1,
+    "Total Eco Score": 3,
+    "Image": "https://m.media-amazon.com/images/I/812ujEPZcML._SX679_.jpg"
+  }
+]
